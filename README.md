@@ -79,3 +79,4 @@
 
 
 **[The Yukki Music](https://github.com/NotReallyShikhar/YukkiMusicBot) | [Not Realy Shikhar](https://github.com/NotReallyShikhar)**
+**[Strem Musik Bot](https://github.com/RyuuXS/Stream) | [RyuuShinXS](https://github.com/RyuuXS)**
