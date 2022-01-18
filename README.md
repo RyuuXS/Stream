@@ -40,7 +40,7 @@
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/RyuuXS/Stream-Deploy"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/RyuuXS/Stream"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 <a href="https://telegram.dog/XTZ_HerokuBot?start=cmlkaG8xNy1pbmQvU2t5em9NdXNpY0JvdCBtYWlu"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  
 
 </p>
