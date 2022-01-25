@@ -28,7 +28,7 @@ from Music.MusicUtilities.database.gbanned import (get_gbans_count, is_gbanned_u
 from Music.MusicUtilities.database.theme import (_get_theme, get_theme, save_theme)
 from Music.MusicUtilities.database.assistant import (_get_assistant, get_assistant, save_assistant)
 from Music.config import DURATION_LIMIT
-from Musik.MusicUtilities.helpers.fsub import subcribe
+from Music.MusicUtilities.helpers.fsub import subcribe
 from Music.MusicUtilities.helpers.decorators import errors
 from Music.MusicUtilities.helpers.filters import command
 from Music.MusicUtilities.helpers.gets import (get_url, themes, random_assistant, ass_det)
