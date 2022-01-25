@@ -29,6 +29,7 @@ from Music.MusicUtilities.database.theme import (_get_theme, get_theme, save_the
 from Music.MusicUtilities.database.assistant import (_get_assistant, get_assistant, save_assistant)
 from Music.config import DURATION_LIMIT
 from Music.MusicUtilities.helpers.decorators import errors
+from Musik.MusicUtilities.helpers.fsub import subcribe
 from Music.MusicUtilities.helpers.filters import command
 from Music.MusicUtilities.helpers.gets import (get_url, themes, random_assistant, ass_det)
 from Music.MusicUtilities.helpers.logger import LOG_CHAT
@@ -59,6 +60,7 @@ def time_to_seconds(time):
     )
 
 @Client.on_message(command(["play", "play@Tg_Vc_00_Bot"]))
+@subcribe
 async def play(_, message: Message):
     chat_id = message.chat.id
     if message.sender_chat:
